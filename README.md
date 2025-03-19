@@ -10,7 +10,7 @@ This repository contains a PoC for vulnerabilities uncovered in Bandiview 7.05 u
 - Version: v7.05 (2024/7/15, BuildNo=26122)
 
 ### Credit
-- JaeHo Cho ( @Jaecho6053 )
-- SongHyun Bae ( @bshyuunn )
-- JunSeo Bae ( @V0xe1 )
-- LeeDong Ha ( @GAP-dev )
+- JaeHo Cho (@Jaecho6053)
+- SongHyun Bae (@bshyuunn)
+- JunSeo Bae (@V0xe1)
+- LeeDong Ha (@GAP-dev)
