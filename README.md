@@ -15,3 +15,18 @@ This repository contains a PoC for vulnerabilities uncovered in Bandiview 7.05 u
 - SongHyun Bae (@bshyuunn)
 - JunSeo Bae (@V0xe1)
 - LeeDong Ha (@GAP-dev)
+
+<br>
+
+<table>
+  <tr>
+    <th>Bandiview Changes Log</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://heasarc.gsfc.nasa.gov/FTP/software/fitsio/c/docs/changes.txt">
+        <img width="602" alt="image" src="https://github.com/user-attachments/assets/f09aee30-c6fc-43bf-b07c-fce59ca96cf6" />
+      </a>
+    </td>
+  </tr>
+</table>
