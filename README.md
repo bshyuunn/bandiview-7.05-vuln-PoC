@@ -1,5 +1,5 @@
 # bandiview-7.05-vuln-PoC
-We tried fuzzing against Bandiview-7.05 and were able to find a few vulnerabilities.
+This repository contains a PoC for vulnerabilities uncovered in Bandiview-7.05 using fuzzing
 
 - [CVE-2024-45870](https://nvd.nist.gov/vuln/detail/CVE-2024-45870) ( JXR File Parsing DoS Vulnerability )
 - [CVE-2024-45871](https://nvd.nist.gov/vuln/detail/CVE-2024-45871) ( PSD File Parsing DoS Vulnerability )
